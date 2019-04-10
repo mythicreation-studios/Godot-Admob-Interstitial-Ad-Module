@@ -1,5 +1,5 @@
 # Godot-Admob-Interstitial-Ad-Module
-Simple Godot Module to add Interstitial Ads to your android mobile games.
+Simple Godot 3.1 Module to add Interstitial Ads to your android mobile games.
 
 Instructions:
 
